@@ -24,21 +24,17 @@
  ### Week 3:
  [Python-OOP (1st week only)](https://www.coursera.org/learn/python-classes-inheritance) <br>
  [Descriptive stats](https://www.youtube.com/watch?v=NyCqaxLW3p8) <br> 
- [Stats summary](https://drive.google.com/file/d/1C4RMwG5HphNAHgYjzif7N_7Eb_w_IDAn/view?usp=sharing) <br> 
- 
- 
  
  ### Week 4: 
- [Python-OOP (2nd week only)](https://www.coursera.org/learn/python-classes-inheritance) <br>
+ [Finish Python-OOP](https://www.coursera.org/learn/python-classes-inheritance) <br>
  [Numpy (Full course)](https://app.datacamp.com/learn/courses/introduction-to-numpy) <br>
  [Numpy DOC](https://numpy.org/learn/) <br>
  
  ### Week 5: 
- [Finish Python-OOP](https://www.coursera.org/learn/python-classes-inheritance) <br>
- 4 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
+ 6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
   
  ### Week 6:
- 5 → 9 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br>
+ 7 →  videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br>
  [Git (session)](https://drive.google.com/drive/folders/14qy8O3XsKmaSGUfd5jGyFFoAcqcSCxoZ?usp=sharing) <br> 
  
  ### Week 7:
@@ -47,7 +43,7 @@
  [Cleaning Kaggle](https://www.kaggle.com/learn/data-cleaning) <br>
  
  ### Week 8:
- Half of [(udacity Course)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br>
+ Half of [(Udacity Course)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br>
  [Understanding Data Visualization (DataCamp Course)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br>
  
  ## Stage 2 
@@ -60,7 +56,6 @@
  [Visualizing Intro to seaborn (data camp)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn ) <br>
  [Intermediate in seaborn(data camp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br> 
  
-
   
  ### Week 11: 
  [Ask Questions (from Google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) <br>
@@ -69,7 +64,7 @@
  [EDA (data camp)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br> 
  
  ### Week 13: 
- Finish [Last Two Lesson OF Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
+ Finish [Last Two Lesson OF Tableau (Udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
  [Tableau and visualizing (from Google specialization)](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics) <br> 
  
  ### Week 14: 
@@ -86,7 +81,7 @@
  [Inferential Stats](https://classroom.udacity.com/courses/ud201 ) <br>
 
  ### Week 17 : 
- [Intro for Machine udacity Course](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer)<br> 
+ [Intro for Machine Udacity Course](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer)<br> 
   
  ### Week 18 : 
  [Linear Algebra Course (week 1,2)](https://www.coursera.org/learn/linear-algebra-machine-learning) <br>
