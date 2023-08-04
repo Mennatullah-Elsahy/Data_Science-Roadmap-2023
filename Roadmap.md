@@ -43,7 +43,7 @@
 * Will it help me learn and grow as a professional?
 * Will I be able to also freely contribute and participate?
 
-<h1 style="color: #E78C4D;">Online Communities and Expert Channels</h1>
+<span style="color:#E78C4D">Online Communities and Expert Channels</span>
 
 
 * [Kaggle](https://www.kaggle.com/): Kaggle is a platform for data science enthusiasts and professionals to collaborate, compete in data science challenges, and access datasets. It provides a community-driven forum for knowledge sharing, discussions, and networking.
@@ -51,7 +51,6 @@
 * [Reddit's /r/data analysis](https://www.reddit.com/r/dataanalysis/): The subreddit /r/dataanalysis on Reddit is a vibrant community where data analysts and enthusiasts can share ideas, ask questions, and engage in discussions related to data analysis.
 * [Data Science Stack Exchange](https://datascience.stackexchange.com/): Data Science Stack Exchange is a question-and-answer platform dedicated to data science, machine learning, and analytics. Users can ask and answer questions, participate in discussions, and learn from the community's collective expertise.
 * [DataCamp Community](https://www.datacamp.com/community): DataCamp Community is an online learning platform for data science and analytics. It offers interactive courses, tutorials, and a community forum where learners can seek help, share insights, and connect with fellow data enthusiasts.
-
 <br/> </details>
 
 
