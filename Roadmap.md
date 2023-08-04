@@ -29,6 +29,19 @@
 #### :seven: :At the end of every level apply all that you've learned on some projects.
 
 
+### Explore each of the below communities and expert channels. You will be asked to pick 1-2 that you will join. This will help you stay informed on progress in the field. 
+
+### As you explore each ask yourself the following questions
+
+* Is this community, channel one that I would like to be a part of?
+* Do I like and understand it?
+* Does the community inspire me? 
+* Does it carry content that is relevant to my career trajectory?
+* Will it help me learn and grow as a professional?
+* Will I be able to also freely contribute and participate?
+
+
+
 # So let’s start our journey with preparing your workspace 🚀
 <details><summary> <h3>:bell: Pick one and stick to it.(👉🏻Click👈🏻)</h3>
 </summary>
