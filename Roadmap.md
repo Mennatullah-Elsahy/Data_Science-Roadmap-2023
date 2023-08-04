@@ -29,10 +29,11 @@
 #### :seven: :At the end of every level apply all that you've learned on some projects.
 
 
-### Explore each of the below communities and expert channels. You will be asked to pick 1-2 that you will join. This will help you stay informed on progress in the field. 
-<details><summary> <h3>:bell: Pick one and stick to it.(👉🏻Click👈🏻)</h3>
+
+<details><summary> <h3>:bell: Explore each of the below communities and expert channels. You will be asked to pick 1-2 that you will join. This will help you stay informed on progress in the field.  (👉🏻Click👈🏻)</h3>
 </summary>
 <br>
+  
 ### As you explore each ask yourself the following questions
 
 * Is this community, channel one that I would like to be a part of?
@@ -42,15 +43,8 @@
 * Will it help me learn and grow as a professional?
 * Will I be able to also freely contribute and participate?
 
-  <!DOCTYPE html>
-<html>
-<head>
-  <title>Page Title</title>
-</head>
-<body>
-  <h1 style="color: #E78C4D;">Online Communities and Expert Channels</h1>
-</body>
-</html>
+<h1 style="color: #E78C4D;">Online Communities and Expert Channels</h1>
+
 
 * [Kaggle](https://www.kaggle.com/): Kaggle is a platform for data science enthusiasts and professionals to collaborate, compete in data science challenges, and access datasets. It provides a community-driven forum for knowledge sharing, discussions, and networking.
 * [Data Science Central](https://www.datasciencecentral.com/): Data Science Central is a community hub for data scientists, data analysts, and other data professionals. It offers resources, tutorials, articles, and a discussion forum for sharing insights, best practices, and networking opportunities.
