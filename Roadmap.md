@@ -32,9 +32,8 @@
 
 <details><summary> <h3>:bell: Explore each of the below communities and expert channels and pick 1-2 that you will join.(👉🏻Click👈🏻)</h3>
 </summary>
-<br>
-
-### This will help you stay informed on progress in the field.  
+  
+## This will help you stay informed on progress in the field.  
 ### As you explore each ask yourself the following questions
 
 * Is this community, channel one that I would like to be a part of?
@@ -44,10 +43,7 @@
 * Will it help me learn and grow as a professional?
 * Will I be able to also freely contribute and participate?
 
-<span style="color:#E78C4D">Online Communities and Expert Channels</span>
-
-
-
+# Online Communities and Expert Channels
 * [Kaggle](https://www.kaggle.com/): Kaggle is a platform for data science enthusiasts and professionals to collaborate, compete in data science challenges, and access datasets. It provides a community-driven forum for knowledge sharing, discussions, and networking.
 * [Data Science Central](https://www.datasciencecentral.com/): Data Science Central is a community hub for data scientists, data analysts, and other data professionals. It offers resources, tutorials, articles, and a discussion forum for sharing insights, best practices, and networking opportunities.
 * [Reddit's /r/data analysis](https://www.reddit.com/r/dataanalysis/): The subreddit /r/dataanalysis on Reddit is a vibrant community where data analysts and enthusiasts can share ideas, ask questions, and engage in discussions related to data analysis.
