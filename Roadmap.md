@@ -30,10 +30,11 @@
 
 
 
-<details><summary> <h3>:bell: Explore each of the below communities and expert channels. You will be asked to pick 1-2 that you will join. This will help you stay informed on progress in the field.  (👉🏻Click👈🏻)</h3>
+<details><summary> <h3>:bell: Explore each of the below communities and expert channels and pick 1-2 that you will join.(👉🏻Click👈🏻)</h3>
 </summary>
 <br>
-  
+
+### This will help you stay informed on progress in the field.  
 ### As you explore each ask yourself the following questions
 
 * Is this community, channel one that I would like to be a part of?
@@ -44,6 +45,7 @@
 * Will I be able to also freely contribute and participate?
 
 <span style="color:#E78C4D">Online Communities and Expert Channels</span>
+
 
 
 * [Kaggle](https://www.kaggle.com/): Kaggle is a platform for data science enthusiasts and professionals to collaborate, compete in data science challenges, and access datasets. It provides a community-driven forum for knowledge sharing, discussions, and networking.
