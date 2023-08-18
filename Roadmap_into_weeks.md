@@ -44,7 +44,7 @@
  
  ### Week 8:
  Half of [(Udacity Course)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br>
- [Understanding Data Visualization (DataCamp Course)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br>
+ [Exploratory Data Analysis in Python (DataCamp Course)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br>
  
  ## Stage 2 
  ### Week 9:
