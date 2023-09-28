@@ -43,7 +43,6 @@
  [Cleaning Kaggle](https://www.kaggle.com/learn/data-cleaning) <br>
  
  ### Week 8:
- Half of [(Udacity Course)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br>
  [Exploratory Data Analysis in Python (DataCamp Course)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br>
  
  ## Stage 2 
@@ -61,9 +60,8 @@
  [Ask Questions (from Google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) <br>
  
  ### Week 12: 
- Finish [Last Two Lesson OF Tableau (Udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br> 
  [Tableau and visualizing (from Google specialization)](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics) <br> 
- 
+ [Improving Your Data Visualizations in Python](https://app.datacamp.com/learn/courses/improving-your-data-visualizations-in-python) <br> 
  ### Week 13: 
  [Intro to DB](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
  [Intro to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql) <br> 
