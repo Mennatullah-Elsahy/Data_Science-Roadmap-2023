@@ -44,7 +44,8 @@
  
  ### Week 8:
  [Exploratory Data Analysis in Python (DataCamp Course)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br>
- 
+ [Improving Your Data Visualizations in Python](https://app.datacamp.com/learn/courses/improving-your-data-visualizations-in-python) <br> 
+
  ## Stage 2 
  ### Week 9:
  [Visualizing (data camp Matplotlib)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) <br> 
@@ -61,7 +62,6 @@
  
  ### Week 12: 
  [Tableau and visualizing (from Google specialization)](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics) <br> 
- [Improving Your Data Visualizations in Python](https://app.datacamp.com/learn/courses/improving-your-data-visualizations-in-python) <br> 
  ### Week 13: 
  [Intro to DB](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
  [Intro to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql) <br> 
