@@ -111,23 +111,23 @@
  Finish [Unsupervised Learning, Recommenders, Reinforcement Learning Andrew](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>
  
  ### Week 25 :
- First 2 chapters in [Hands on ML book]([https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/hands-on-machine-learning/9781098125967/) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password )<br>
+ First 2 chapters in [Hands on ML book]([https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/hands-on-machine-learning/9781098125967/)) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password )<br>
  [Hegab Playlist](https://youtube.com/playlist?list=PL1YWN9bMt3ODJnCNW1WqJ46tXVMCgdwTI)<br>
 
  ### Week 26 :
- Chapters 3,4 in [Hands on ML book]([https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/hands-on-machine-learning/9781098125967/) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password )<br>
+ Chapters 3,4 in [Hands on ML book]([https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/hands-on-machine-learning/9781098125967/)) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password )<br>
  [Hegab Playlist](https://youtube.com/playlist?list=PL1YWN9bMt3ODJnCNW1WqJ46tXVMCgdwTI)<br>
 
  ### Week 27 :
- Chapters 5,6 in [Hands on ML book]([https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/hands-on-machine-learning/9781098125967/) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password )<br>
+ Chapters 5,6 in [Hands on ML book]([https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/hands-on-machine-learning/9781098125967/)) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password )<br>
  [Hegab Playlist](https://youtube.com/playlist?list=PL1YWN9bMt3ODJnCNW1WqJ46tXVMCgdwTI)<br>
 
  ### Week 28 :
- Chapters 7,8 in [Hands on ML book]([https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/hands-on-machine-learning/9781098125967/) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password )<br>
+ Chapters 7,8 in [Hands on ML book]([https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/hands-on-machine-learning/9781098125967/)) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password )<br>
  [Hegab Playlist](https://youtube.com/playlist?list=PL1YWN9bMt3ODJnCNW1WqJ46tXVMCgdwTI)<br>
 
  ### Week 29 :
- Chapter 9 in [Hands-on ML book]([https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/hands-on-machine-learning/9781098125967/) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password )<br>
+ Chapter 9 in [Hands-on ML book]([https://drive.google.com/file/d/11VeqPJw8s9SC9Ru7IVeQhiTyV_9TliOE/view](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/hands-on-machine-learning/9781098125967/)) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password )<br>
  [Hegab Playlist](https://youtube.com/playlist?list=PL1YWN9bMt3ODJnCNW1WqJ46tXVMCgdwTI)<br>
  First part in [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) <br>
 
@@ -156,10 +156,10 @@
  [Structuring Machine Learning Projects Course](https://www.coursera.org/learn/machine-learning-projects) <br>
 
  ### Week 37 :
- Chapter 1,2,3 in [Deep Learning with python](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/deep-learning-with/9781484227664/ACoverHTML.html) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password ) <br>
+ Chapter 1,2,3 in [Deep Learning with python](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/deep-learning-with/9781484227664/ACoverHTML.html)) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password ) <br>
 
  ### Week 38 :
- Chapter 4,5  in [Deep Learning with python](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/deep-learning-with/9781484227664/ACoverHTML.html) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password ) <br>
+ Chapter 4,5  in [Deep Learning with python](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/deep-learning-with/9781484227664/ACoverHTML.html)) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password ) <br>
 
  ### Week 39 :
  Chapter 6,7 in [Deep Learning with python](https://learning-oreilly-com.montgomery.idm.oclc.org/library/view/deep-learning-with/9781484227664/ACoverHTML.html) use the following to get the book (56098000000101358 card number VQQy!Ng5DhR8j5i password )<br>
