@@ -78,12 +78,12 @@
  [Intro to DB](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br> 
  [Intro to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql) <br> 
  [Notebook](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql) <br>
-  Task (Try to solve the following queries)
- 1 -https://www.hackerrank.com/challenges/select-all-sql?isFullScreen=true
- 2- https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
- 3- https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true
- 4- https://www.hackerrank.com/challenges/weather-observation-station-12?isFullScreen=true
- 5- https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true
+  Task (Try to solve the following queries)<br>
+ 1 -https://www.hackerrank.com/challenges/select-all-sql?isFullScreen=true<br>
+ 2- https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true<br>
+ 3- https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true<br>
+ 4- https://www.hackerrank.com/challenges/weather-observation-station-12?isFullScreen=true<br>
+ 5- https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true<br>
  ### Week 13: 
  [Intro to web scraping](https://drive.google.com/file/d/1kV0iewMJt0RHSYWAjJCaTNoD41wpfRXM/view?usp=sharing) <br> 
  [Web scraping](https://app.datacamp.com/learn/courses/web-scraping-with-python) <br>  
@@ -92,9 +92,9 @@
 
  ### Week 14: 
  [Linear Algebra](https://www.coursera.org/specializations/mathematics-machine-learning) [Or](https://www.coursera.org/learn/linear-algebra-machine-learning) <br> 
- [preprocessing 1](https://medium.com/python-in-plain-english/the-power-of-data-preprocessing-in-unlocking-the-true-potential-of-raw-data-176aa6dd64f0)<br
- [preprocessing 2](https://medium.com/gitconnected/the-importance-of-data-preprocessing-in-python-pandas-bfbc112ae28c?source=search_post---------6----------------------------)<br
- [preprocessing 3](https://medium.com/mlearning-ai/feature-selection-techniques-in-machine-learning-82c2123bd548)<br
+ [preprocessing 1](https://medium.com/python-in-plain-english/the-power-of-data-preprocessing-in-unlocking-the-true-potential-of-raw-data-176aa6dd64f0)<br>
+ [preprocessing 2](https://medium.com/gitconnected/the-importance-of-data-preprocessing-in-python-pandas-bfbc112ae28c?source=search_post---------6----------------------------)<br>
+ [preprocessing 3](https://medium.com/mlearning-ai/feature-selection-techniques-in-machine-learning-82c2123bd548)<br>
 
  ## Stage 3 
  ### Week 15 : 
