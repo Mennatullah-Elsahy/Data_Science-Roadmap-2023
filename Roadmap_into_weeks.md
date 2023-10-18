@@ -16,23 +16,25 @@
  ## Stage 1 
  ### Week 1 : 
 [Python-Basics (Full Course)](https://www.coursera.org/learn/python-basics) <br> 
-
+[Task](https://colab.research.google.com/drive/1N_sxUfzFwAEQmqVuOxMfaRGxFuw9DnPm?usp=sharing)<br> 
  ### Week 2: 
-[Intermediate Python (Full course)](https://www.coursera.org/learn/python-functions-files-dictionaries) <br>
-
+[Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries) <br>
+[Task](https://colab.research.google.com/drive/1tDl_jyCxT74xTXSwh9s8klGESs0TdfD3?usp=sharing)<br> 
 
  ### Week 3:
  [Python-OOP (1st week only)](https://www.coursera.org/learn/python-classes-inheritance) <br>
  [Descriptive stats](https://www.youtube.com/watch?v=NyCqaxLW3p8) <br> 
- 
+ [Task](https://colab.research.google.com/drive/1Dfs7jlyq0cOksL42hRMzYW3cEmkaQ2Wa?usp=sharing)<br> 
  ### Week 4: 
  [Finish Python-OOP](https://www.coursera.org/learn/python-classes-inheritance) <br>
  [Numpy (Full course)](https://app.datacamp.com/learn/courses/introduction-to-numpy) <br>
  [Numpy DOC](https://numpy.org/learn/) <br>
+ [Task](https://colab.research.google.com/drive/1EQtnzLJ5liX4o3FJJEcca6hk42fb-fNr?usp=sharing#ProblemSolving)<br> 
  
  ### Week 5: 
  6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br> 
-  
+ [Task](https://colab.research.google.com/drive/1CZMvyh9zqWJDTC3uJAJrXIsV7TWG4HFG?usp=sharing)<br> 
+
  ### Week 6:
  7 →  videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br>
  [Git (session)](https://drive.google.com/drive/folders/14qy8O3XsKmaSGUfd5jGyFFoAcqcSCxoZ?usp=sharing) <br> 
